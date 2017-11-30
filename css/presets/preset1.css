@@ -11,11 +11,11 @@ a,
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #027db3
+  background-color: #3CDD0A
 }
 
 a:hover, a:focus {
-	color: #027db3;
+	color: #3CDD0A;
 }
 
 .main-nav,
@@ -46,7 +46,7 @@ a:hover, a:focus {
 .caption .btn-start:hover,
 .left-control:hover,
 .right-control:hover {
-	border-color: #028fcc;
+	border-color: #3CDD0A;
 }
 
 .twitter-icon .fa-twitter:after {
